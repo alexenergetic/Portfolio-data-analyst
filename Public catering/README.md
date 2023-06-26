@@ -12,8 +12,6 @@
 - plotly
 - folium
 - json
-- sqlalchemy
-- psycopg2
 
 ## Общий вывод
 После проведенного исследования:
